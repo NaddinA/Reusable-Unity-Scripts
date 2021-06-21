@@ -1,5 +1,6 @@
 # Reusable-Unity-Scripts
-CURRENTLY INCLUDES: 
+CURRENTLY INCLUDES:
+
 --> JumpEffect.cs: This script override's unity's default RB:Gravity calculations and highly smoothens a player's jump effect by applying realistic -Y-axis acceleration. 
   Recommended use on RIGIDBODY component.
   
